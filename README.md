@@ -1,15 +1,18 @@
 # List of words we like and hate
 
 ## Like
-- Chutney
+- chutney
 - Gitche Gumee
-- Effervescent
-- Exfoliate
+- effervescent
+- exfoliate
 - honeysuckle
+- slicker
+- golloshes
+- nervous
 
 ## Hate
-- Slacks
-- Imaculate
-- Pristine
-- Plush
-
+- slacks
+- immaculate
+- pristine
+- plush
+- davenport
