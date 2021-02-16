@@ -9,6 +9,8 @@
 - slicker
 - golloshes
 - nervous
+- Tuscan
+- skillet
 
 ## Hate
 - slacks
