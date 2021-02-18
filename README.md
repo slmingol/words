@@ -18,3 +18,4 @@
 - pristine
 - plush
 - davenport
+- ladle
