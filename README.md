@@ -22,3 +22,4 @@
 - plush
 - davenport
 - ladle
+- banquette
