@@ -11,6 +11,8 @@
 - nervous
 - Tuscan
 - skillet
+- honey
+- honeyhush
 
 ## Hate
 - slacks
