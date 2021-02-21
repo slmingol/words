@@ -13,7 +13,10 @@
 - skillet
 - honey
 - honeyhush
-- Agita (Italian/Yiddish - heartburn)
+- agita (Italian/Yiddish - heartburn)
+- dutch oven
+- onomatopoeia
+- palindrome
 
 ## Hate
 - slacks
