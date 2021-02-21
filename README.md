@@ -1,28 +1,30 @@
 # List of words we like and hate
 
 ## Like
+- agita (Italian/Yiddish - heartburn)
 - chutney
-- Gitche Gumee
+- dutch oven
 - effervescent
 - exfoliate
-- honeysuckle
-- slicker
+- Gitche Gumee
 - golloshes
-- nervous
-- Tuscan
-- skillet
 - honey
 - honeyhush
-- agita (Italian/Yiddish - heartburn)
-- dutch oven
+- honeysuckle
+- lap of luxury
+- luxry
+- nervous
 - onomatopoeia
 - palindrome
+- skillet
+- slicker
+- Tuscan
 
 ## Hate
-- slacks
-- immaculate
-- pristine
-- plush
-- davenport
-- ladle
 - banquette
+- davenport
+- immaculate
+- ladle
+- plush
+- pristine
+- slacks
