@@ -3,6 +3,7 @@
 ## Like
 - agita (Italian/Yiddish - heartburn)
 - chutney
+- critics
 - dutch oven
 - effervescent
 - exfoliate
