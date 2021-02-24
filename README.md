@@ -41,11 +41,13 @@ Here are my lists!
 | words I like | words that bug me | words I like to say |
 | ------------ | ----------------- | ------------------- |
 | bamboozled   | aquatics	       | Aurora              |
+|              | banquette         |                     |
 | custard	   | bedazzled	       | chinchilla          |
 | docile	   | blog	           | chrysalis           |
 | doppelganger | bundt	           | Coconino            |
 | honeysuckle  | caress	           | cornucopia          |
 | hootenanny   | cockles	       | custard             |
+|              | crocuses          |                     |
 | lopper	   | davenport	       | dynamo              |
 | percolating  | delicious	       | edgy                |
 | pipsqueaks   | doily	           | flinger             |
@@ -55,6 +57,7 @@ Here are my lists!
 |              | immaculate	       | rain slicker        |
 |              | ladle	           | sassafras           |
 |              | luminescence	   | sofrito             |
+|              | pristine          |                     |
 |              | sarong	           | soggy               |
 |              | shea	           | widger              |
 |              | shea butter	   |                     |
