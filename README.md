@@ -38,7 +38,6 @@ People that know me know that from time to time I will mention that there are wo
 
 Here are my lists!
 
-| ------------ | ----------------- | ------------------- |
 | words I like | words that bug me | words I like to say |
 | ------------ | ----------------- | ------------------- |
 | bamboozled   | aquatics	       | Aurora              |
@@ -64,4 +63,3 @@ Here are my lists!
 |              | vellum	           |                     |
 |              | vestibule	       |                     |
 |              | visceral	       |                     |
-| ------------ | ----------------- | ------------------- |
