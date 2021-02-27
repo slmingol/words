@@ -8,6 +8,7 @@
 - effervescent
 - ephemeral
 - exfoliate
+- farina
 - Gitche Gumee
 - golloshes
 - honey
@@ -18,6 +19,8 @@
 - nervous
 - onomatopoeia
 - palindrome
+- shea
+- shea butter
 - skillet
 - slicker
 - Tuscan
@@ -26,6 +29,7 @@
 - banquette
 - crocuses
 - davenport
+- emollient
 - immaculate
 - ladle
 - plush
