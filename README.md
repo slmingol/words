@@ -23,6 +23,7 @@
 - shea butter
 - skillet
 - slicker
+- thermaskin
 - Tuscan
 
 ## Hate
