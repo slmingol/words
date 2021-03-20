@@ -6,6 +6,7 @@
 - critics
 - dutch oven
 - effervescent
+- elasticity
 - ephemeral
 - exfoliate
 - farina
