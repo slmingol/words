@@ -6,9 +6,11 @@
 - critics
 - dutch oven
 - effervescent
+- elasticity
 - ephemeral
 - essential oils
 - exfoliate
+- farina
 - Gitche Gumee
 - golloshes
 - honey
@@ -19,14 +21,18 @@
 - nervous
 - onomatopoeia
 - palindrome
+- shea
+- shea butter
 - skillet
 - slicker
+- thermaskin
 - Tuscan
 
 ## Hate
 - banquette
 - crocuses
 - davenport
+- emollient
 - immaculate
 - ladle
 - plush
