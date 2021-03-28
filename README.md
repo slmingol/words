@@ -7,6 +7,7 @@
 - dutch oven
 - effervescent
 - ephemeral
+- essential oils
 - exfoliate
 - Gitche Gumee
 - golloshes
@@ -30,6 +31,7 @@
 - ladle
 - plush
 - pristine
+- Schlage
 - slacks
 
 
