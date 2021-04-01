@@ -21,10 +21,12 @@
 - nervous
 - onomatopoeia
 - palindrome
+- rage
 - shea
 - shea butter
 - skillet
 - slicker
+- sustanance
 - thermaskin
 - Tuscan
 
