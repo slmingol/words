@@ -1,6 +1,7 @@
 # List of words we like and hate
 
 ## Like
+- affinage
 - agita (Italian/Yiddish - heartburn)
 - chutney
 - critics
@@ -28,6 +29,7 @@
 - slicker
 - sustanance
 - thermaskin
+- Tough Customers
 - Tuscan
 
 ## Hate
