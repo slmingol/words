@@ -22,6 +22,7 @@
 - nervous
 - onomatopoeia
 - palindrome
+- pungent
 - rage
 - shea
 - shea butter
