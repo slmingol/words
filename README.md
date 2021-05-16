@@ -14,6 +14,7 @@
 - farina
 - Gitche Gumee
 - golloshes
+- haberdashery
 - honey
 - honeyhush
 - honeysuckle
