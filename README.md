@@ -3,6 +3,7 @@
 ## Like
 - affinage
 - agita (Italian/Yiddish - heartburn)
+- aroma
 - chutney
 - critics
 - dutch oven
