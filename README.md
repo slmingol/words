@@ -4,6 +4,7 @@
 - affinage
 - agita (Italian/Yiddish - heartburn)
 - aroma
+- barista
 - chutney
 - critics
 - dutch oven
