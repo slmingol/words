@@ -45,6 +45,7 @@
 - ladle
 - plush
 - pristine
+- resplendent
 - Schlage
 - slacks
 
