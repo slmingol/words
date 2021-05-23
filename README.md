@@ -31,6 +31,7 @@
 - shea butter
 - skillet
 - slicker
+- snickersnee
 - sustanance
 - thermaskin
 - Tough Customers
