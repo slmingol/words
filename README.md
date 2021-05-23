@@ -20,6 +20,7 @@
 - honey
 - honeyhush
 - honeysuckle
+- illustrious
 - lap of luxury
 - luxry
 - nervous
