@@ -49,6 +49,7 @@
 - plush
 - pristine
 - resplendent
+- skein
 - Schlage
 - slacks
 
