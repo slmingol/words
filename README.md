@@ -26,6 +26,7 @@
 - nervous
 - onomatopoeia
 - palindrome
+- paprika
 - pungent
 - rage
 - shea
