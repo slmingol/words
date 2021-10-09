@@ -33,6 +33,7 @@
 - shea butter
 - skillet
 - slicker
+- slickers
 - snickersnee
 - sustanance
 - thermaskin
