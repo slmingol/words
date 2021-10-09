@@ -6,6 +6,7 @@
 - aroma
 - barista
 - chutney
+- cricut (said in a whispering way)
 - critics
 - dutch oven
 - effervescent
