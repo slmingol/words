@@ -40,6 +40,7 @@
 - thermaskin
 - Tough Customers
 - Tuscan
+- wicker
 
 ## Hate
 - banquette
