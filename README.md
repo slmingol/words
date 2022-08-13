@@ -18,6 +18,7 @@
 - Gitche Gumee
 - golloshes
 - haberdashery
+- hibiscus
 - honey
 - honeyhush
 - honeysuckle
