@@ -3,6 +3,7 @@
 ## Like
 - affinage
 - agita (Italian/Yiddish - heartburn)
+- acquiesce
 - aroma
 - barista
 - chutney
