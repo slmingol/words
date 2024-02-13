@@ -47,6 +47,7 @@
 ## Hate
 - banquette
 - bulgur wheat
+- corpus
 - crocuses
 - davenport
 - emollient
