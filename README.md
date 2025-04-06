@@ -32,6 +32,7 @@
 - illustrious
 - lap of luxury
 - lush
+- luster (Australian way of saying it - lustah)
 - luxry
 - nervous
 - onomatopoeia
