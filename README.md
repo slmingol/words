@@ -22,6 +22,7 @@
 - exfoliate
 - farina
 - Gitche Gumee
+- gobsmacked
 - golloshes
 - haberdashery
 - hibiscus
