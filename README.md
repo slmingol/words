@@ -10,6 +10,7 @@
 - clutter (Australian way of saying it - cluttah)
 - cricut (said in a whispering way)
 - critics
+- declutter
 - dutch oven
 - effervescent
 - elasticity
@@ -26,6 +27,7 @@
 - honeysuckle
 - illustrious
 - lap of luxury
+- lush
 - luxry
 - nervous
 - onomatopoeia
@@ -33,6 +35,7 @@
 - paprika
 - pungent
 - rage
+- reno (Australian slang for rennovation - the reno)
 - shea
 - shea butter
 - skillet
