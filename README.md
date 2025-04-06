@@ -7,6 +7,7 @@
 - aroma
 - barista
 - calming
+- cha cha chia (Chia Pet)
 - chutney
 - clutter (Australian way of saying it - cluttah)
 - color (Australian way of saying it - colah)
