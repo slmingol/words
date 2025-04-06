@@ -9,6 +9,7 @@
 - calming
 - chutney
 - clutter (Australian way of saying it - cluttah)
+- color (Australian way of saying it - colah)
 - cricut (said in a whispering way)
 - critics
 - declutter
