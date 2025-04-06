@@ -41,6 +41,7 @@
 - pungent
 - rage
 - reno (Australian slang for rennovation - the reno)
+- rubbish
 - shea
 - shea butter
 - skillet
