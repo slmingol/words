@@ -45,6 +45,7 @@
 - slicker
 - slickers
 - snickersnee
+- sophisticated
 - sustanance
 - thermaskin
 - Tough Customers
