@@ -6,6 +6,7 @@
 - acquiesce
 - aroma
 - barista
+- calming
 - chutney
 - clutter (Australian way of saying it - cluttah)
 - cricut (said in a whispering way)
