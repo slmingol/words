@@ -1,9 +1,9 @@
 # List of words we like and hate
 
 ## Like
+- acquiesce
 - affinage
 - agita (Italian/Yiddish - heartburn)
-- acquiesce
 - aroma
 - barista
 - calming
