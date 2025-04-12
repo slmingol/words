@@ -47,6 +47,7 @@
 - skillet
 - slicker
 - slickers
+- slither
 - snickersnee
 - sophisticated
 - sustanance
@@ -56,6 +57,7 @@
 - wicker
 
 ## Hate
+- athleisure
 - banquette
 - bulgur wheat
 - corpus
