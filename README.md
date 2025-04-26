@@ -30,7 +30,8 @@
 - honey
 - honeyhush
 - honeysuckle
-- hydriluzed
+- hydrolized
+- hydroponic
 - illustrious
 - lap of luxury
 - lush
