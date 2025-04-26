@@ -8,6 +8,7 @@
 - barista
 - calming
 - cha cha chia (Chia Pet)
+- chai
 - chutney
 - clutter (Australian way of saying it - cluttah)
 - color (Australian way of saying it - colah)
@@ -29,6 +30,7 @@
 - honey
 - honeyhush
 - honeysuckle
+- hydriluzed
 - illustrious
 - lap of luxury
 - lush
