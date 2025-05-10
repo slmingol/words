@@ -37,6 +37,7 @@
 - lush
 - luster (Australian way of saying it - lustah)
 - luxry
+- muk luks
 - nervous
 - onomatopoeia
 - palindrome
