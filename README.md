@@ -14,6 +14,7 @@
 - color (Australian way of saying it - colah)
 - cricut (said in a whispering way)
 - critics
+- cutlet
 - declutter
 - dutch oven
 - effervescent
