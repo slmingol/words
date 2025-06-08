@@ -49,6 +49,7 @@
 - rubbish
 - shea
 - shea butter
+- Siler City
 - skillet
 - slicker
 - slickers
