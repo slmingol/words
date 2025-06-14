@@ -39,10 +39,11 @@
 - luster (Australian way of saying it - lustah)
 - luxry
 - muk luks
-- naturally essenced
+- naturally essenced (La Croix Drink)
 - nervous
 - onomatopoeia
 - palindrome
+- pamplemousse (La Croix Drink)
 - paprika
 - pungent
 - rage
