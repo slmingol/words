@@ -11,6 +11,7 @@
 - chai
 - chutney
 - clutter (Australian way of saying it - cluttah)
+- co-curricular
 - color (Australian way of saying it - colah)
 - cricut (said in a whispering way)
 - critics
