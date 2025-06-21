@@ -32,7 +32,7 @@
 - honey
 - honeyhush
 - honeysuckle
-- hydrolized
+- hydrolyzed
 - hydroponic
 - illustrious
 - lap of luxury
