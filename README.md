@@ -74,6 +74,7 @@
 - crocuses
 - davenport
 - emollient
+- Gloucester 
 - immaculate
 - ladle
 - plush
