@@ -14,6 +14,7 @@
 - co-curricular
 - color (Australian way of saying it - colah)
 - cricut (said in a whispering way)
+- crisp
 - critics
 - cutlet
 - declutter
