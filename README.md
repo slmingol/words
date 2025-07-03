@@ -50,6 +50,8 @@
 - pungent
 - rage
 - reno (Australian slang for rennovation - the reno)
+- Ricola
+- Robitussin
 - rubbish
 - shea
 - shea butter
@@ -64,6 +66,7 @@
 - thermaskin
 - Tough Customers
 - Tuscan
+- tussin
 - wicker
 
 ## Hate
