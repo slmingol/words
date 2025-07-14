@@ -50,7 +50,7 @@
 - paprika
 - pungent
 - rage
-- reno (Australian slang for rennovation - the reno)
+- reno (Australian slang for rennovation - the reno - the r-eh-no)
 - Ricola
 - Robitussin
 - rubbish
