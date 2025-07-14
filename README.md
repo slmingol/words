@@ -5,6 +5,7 @@
 - affinage
 - agita (Italian/Yiddish - heartburn)
 - aroma
+- astringents
 - barista
 - calming
 - cha cha chia (Chia Pet)
@@ -53,6 +54,7 @@
 - Ricola
 - Robitussin
 - rubbish
+- seersucker suits
 - shea
 - shea butter
 - Siler City
