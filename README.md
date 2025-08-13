@@ -72,6 +72,7 @@
 - wicker
 
 ## Hate
+- açaí
 - athleisure
 - banquette
 - bulgur wheat
