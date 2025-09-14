@@ -48,6 +48,7 @@
 - palindrome
 - pamplemousse (La Croix Drink)
 - paprika
+- petagogical
 - pungent
 - rage
 - reno (Australian slang for rennovation - the reno - the r-eh-no)
