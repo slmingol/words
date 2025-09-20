@@ -56,6 +56,7 @@
 - Ricola
 - Robitussin
 - rubbish
+- sambucha
 - seersucker suits
 - shea
 - shea butter
