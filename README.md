@@ -18,6 +18,7 @@
 - crisp
 - critics
 - cutlet
+- decadent
 - declutter
 - dutch oven
 - effervescent
