@@ -39,6 +39,7 @@
 - hydroponic
 - illustrious
 - lap of luxury
+- luddens
 - lush
 - luster (Australian way of saying it - lustah)
 - luxry
@@ -67,6 +68,7 @@
 - slither
 - snickersnee
 - sophisticated
+- sucrets
 - sustanance
 - thermaskin
 - Tough Customers
