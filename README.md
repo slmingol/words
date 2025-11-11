@@ -39,7 +39,7 @@
 - hydroponic
 - illustrious
 - lap of luxury
-- luddens
+- Luddens
 - lush
 - luster (Australian way of saying it - lustah)
 - luxry
@@ -57,6 +57,7 @@
 - Ricola
 - Robitussin
 - rubbish
+- Rustoleum
 - sambucha
 - seersucker suits
 - shea
@@ -68,12 +69,12 @@
 - slither
 - snickersnee
 - sophisticated
-- sucrets
+- Sucrets
 - sustanance
 - thermaskin
 - Tough Customers
 - Tuscan
-- tussin
+- Tussin
 - wicker
 
 ## Hate
@@ -83,6 +84,7 @@
 - bulgur wheat
 - corpus
 - crocuses
+- cull
 - davenport
 - emollient
 - Gloucester 
@@ -94,6 +96,7 @@
 - skein
 - Schlage
 - slacks
+- vegimite
 
 
 ## Original Blog Post on Words
