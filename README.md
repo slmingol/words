@@ -7,6 +7,8 @@
 - aroma
 - astringents
 - barista
+- bollocks
+- bugalugs
 - calming
 - cha cha chia (Chia Pet)
 - chai
@@ -43,6 +45,7 @@
 - lush
 - luster (Australian way of saying it - lustah)
 - luxry
+- me ol'mucker
 - muk luks
 - naturally essenced (La Croix Drink)
 - nervous
