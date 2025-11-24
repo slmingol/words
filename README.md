@@ -20,6 +20,7 @@
 - crisp
 - critics
 - cutlet
+- Dalgliesh
 - decadent
 - declutter
 - dutch oven
