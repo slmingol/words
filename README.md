@@ -8,6 +8,7 @@
 - astringents
 - barista
 - bollocks
+- brioche
 - bugalugs
 - calming
 - cha cha chia (Chia Pet)
