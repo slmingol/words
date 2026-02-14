@@ -56,6 +56,7 @@
 - pamplemousse (La Croix Drink)
 - paprika
 - petagogical
+- pithy
 - pungent
 - rage
 - reno (Australian slang for rennovation - the reno - the r-eh-no)
