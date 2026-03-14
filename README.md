@@ -105,6 +105,7 @@
 - Schlage
 - slacks
 - vegimite
+- wickless
 
 
 ## Original Blog Post on Words
