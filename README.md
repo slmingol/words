@@ -42,6 +42,7 @@
 - hydrolyzed
 - hydroponic
 - illustrious
+- jambalaya
 - lap of luxury
 - Luddens
 - lush
