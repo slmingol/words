@@ -95,9 +95,11 @@
 - cull
 - davenport
 - emollient
-- Gloucester 
+- Gloucester
+- huskless    (huskless split yellow mung beans - ick...)
 - immaculate
 - ladle
+- mung
 - plush
 - pristine
 - resplendent
