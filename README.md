@@ -13,6 +13,7 @@
 - calming
 - cha cha chia (Chia Pet)
 - chai
+- chowder
 - chutney
 - clutter (Australian way of saying it - cluttah)
 - co-curricular
