@@ -103,6 +103,7 @@
 - ladle
 - mung
 - plush
+- plushies
 - pristine
 - resplendent
 - skein
