@@ -76,6 +76,7 @@
 - slicker
 - slickers
 - slither
+- slow burn
 - snickersnee
 - sophisticated
 - Sucrets
