@@ -111,6 +111,7 @@
 - skein
 - Schlage
 - slacks
+- spurge
 - vegimite
 - wickless
 
